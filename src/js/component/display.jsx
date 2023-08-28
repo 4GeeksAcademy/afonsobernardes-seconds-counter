@@ -1,12 +1,11 @@
 import React, { useEffect, useState } from "react";
-import { time } from "./clock.jsx";
 
 
 const Display = ({text}) => {
     
 	return (
-        <div className="border text-white">
-             <h1 className="fw-bolder fs-1">{text}</h1>
+        <div className="border rounded bg-white p-5">
+            <h1 className="display-1 fw-bolder">{text}</h1>
         </div>
     );
 };
