@@ -16,7 +16,7 @@ const Home = () => {
 			</a>
 			<p>
 				Made by{" "}
-				<a href="https://github.com/AfonsoBernardes">Afonso Bernardes</a>, with
+				<a href="http://www.4geeksacademy.com">4Geeks Academy</a>, with
 				love!
 			</p>
 		</div>
